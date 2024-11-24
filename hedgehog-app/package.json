@@ -1,6 +1,6 @@
 {
   "name": "hedgehog-app",
-  "homepage": "https://kounkou.github.io/hedgehog-web/",
+  "homepage": "https://github.com/kounkou/hedgehog-web/tree/main/hedgehog-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
