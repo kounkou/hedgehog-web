@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kounkou/hedgehog-web/tree/main/hedgehog-app/static/css/main.6bd649a2.css",
+    "main.js": "/kounkou/hedgehog-web/tree/main/hedgehog-app/static/js/main.11d0d188.js",
+    "static/js/453.64cb4c5d.chunk.js": "/kounkou/hedgehog-web/tree/main/hedgehog-app/static/js/453.64cb4c5d.chunk.js",
+    "static/media/hedgehog.png": "/kounkou/hedgehog-web/tree/main/hedgehog-app/static/media/hedgehog.35e47c188ba871a644a0.png",
+    "index.html": "/kounkou/hedgehog-web/tree/main/hedgehog-app/index.html",
+    "main.6bd649a2.css.map": "/kounkou/hedgehog-web/tree/main/hedgehog-app/static/css/main.6bd649a2.css.map",
+    "main.11d0d188.js.map": "/kounkou/hedgehog-web/tree/main/hedgehog-app/static/js/main.11d0d188.js.map",
+    "453.64cb4c5d.chunk.js.map": "/kounkou/hedgehog-web/tree/main/hedgehog-app/static/js/453.64cb4c5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bd649a2.css",
+    "static/js/main.11d0d188.js"
+  ]
+}
